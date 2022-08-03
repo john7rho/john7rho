@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on wide-eyed ideas.
 - 💬 Ask me about investing, BCIs, crypto, solidity dev, and more! (Always looking to learn and explore.)
 - 📫 How to reach me: john.rho@cashclubcorp.org
---> Nice to meet you! This GitHub feature is cool haha.
+--> Nice to meet you!
