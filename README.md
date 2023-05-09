@@ -1,4 +1,4 @@
-### Hello! 👋 I'm John.🐺
+### Hey 👋 I'm John.🐺
 
 ### 🤝 Connect with me:
 
