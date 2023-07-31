@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I am a B.A. candidate in Applied Math in Computer Science at Harvard College, with a secondary in Mind, Brain, and Behavior studies. I enjoy consumer-facing products with a specialization in healthcare and education. I have interned / will intern at tech and financial companies, serving as a Software Engineering Fellow for Bessemer Venture Partners, Product Manager Intern at StubHub, and Venture Investment Banking Summer Analyst at Lazard. 
+I am a B.A. candidate in Applied Math in Biological Sciences at Harvard College, with a secondary in Computer Science. I enjoy consumer-facing products with a specialization in healthcare and education. I have interned / will intern at tech and financial companies, serving as a Software Engineering Fellow for Bessemer Venture Partners, Product Manager Intern at StubHub, and Venture Investment Banking Summer Analyst at Lazard. 
 
 ### 🤝 Connect with me:
 
