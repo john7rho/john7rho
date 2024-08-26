@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I am a B.A. candidate in Statistics (Quant Finance Track) at Harvard College. I enjoy consumer-facing products with a specialization in healthcare and education. I have interned / will intern at tech and financial companies, serving as a Software Engineering Fellow for Bessemer Venture Partners and Product Manager Intern at StubHub.
+I am a A.B. candidate in Statistics (Quant Finance Track) at Harvard College. I enjoy consumer-facing products with a specialization in healthcare and education. I have interned / will intern at tech and financial companies, serving as a Software Engineering Fellow for Bessemer Venture Partners and Product Manager Intern at StubHub.
 
 ### 🤝 Connect with me:
 
