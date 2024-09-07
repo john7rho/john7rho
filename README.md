@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I am a A.B. candidate in Statistics (Quant Finance Track) at Harvard College. I have interned / will intern at tech and financial companies, serving as a Software Engineering Fellow for Bessemer Venture Partners and Product Manager Intern at StubHub. Most recently, I was an investment banking summer analyst at Lazard.
+I am a A.B. candidate in Statistics at Harvard College. I have interned / will intern at tech and financial companies, serving as a Software Engineering Fellow for Bessemer Venture Partners and Product Manager Intern at StubHub. Most recently, I was an investment banking summer analyst at Lazard.
 
 ### 🤝 Connect with me:
 
