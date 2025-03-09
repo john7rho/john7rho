@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I am a A.B. candidate in Statistics & Computer Science at Harvard. I have interned at tech and financial companies, serving as an Engineering Fellow for Bessemer Venture Partners and Product Manager Intern at StubHub. Most recently, I was an investment banking summer analyst at Lazard as well as a Research Assistant for Prof Josh Lerner (HBS).
+I am a A.B. candidate in Statistics & Computer Science at Harvard. My interests have oscillated in college, but currently, I am working on research. 
 
 For a (relatively) updated synopsis of my current studies, please refer to my personal website at www.rhojohn.com.
 
