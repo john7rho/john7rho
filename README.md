@@ -1,8 +1,10 @@
 ### Hey 👋 I'm John.🐺
 
-I am a A.B. candidate in Statistics & Computer Science at Harvard. My interests have oscillated in college, but currently, I am working on research. I also operate a technical consultancy.
+I studied Statistics & Computer Science at Harvard. My interests have oscillated in college, but currently I am working at a startup focused on tech-enabling a traditional industry. 
 
-For a (relatively) updated synopsis of my current studies, please refer to my personal website at www.rhojohn.com.
+For a (relatively) updated synopsis of my current work, please refer to my personal website at www.rhojohn.com.
+
+In my free time, I enjoy running and reading.
 
 ### 🤝 Connect with me:
 
