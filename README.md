@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I studied Statistics & Computer Science at Harvard. My interests have oscillated in college, but currently I am working as MoTS at datacurve.ai. I wear both engineering and operations hats. We are hiring! https://datacurve.ai/careers 
+I studied Statistics & Computer Science at Harvard. I am working on systems engineering benchmarks.
 
 For a (relatively) updated synopsis of my current work, please refer to my personal website at www.rhojohn.com.
 
