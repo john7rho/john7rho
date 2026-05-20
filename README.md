@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I studied Statistics & Computer Science at Harvard. I am working on systems engineering benchmarks.
+I studied Statistics & Computer Science at Harvard.
 
 For a (relatively) updated synopsis of my current work, please refer to my personal website at www.rhojohn.com.
 
