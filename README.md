@@ -1,6 +1,6 @@
 ### Hey 👋 I'm John.🐺
 
-I studied Statistics & Computer Science at Harvard.
+I studied Statistics & Computer Science at Harvard. Currently, I am an investor at https://www.villageglobal.com/, focused on AI and infra. 
 
 For a (relatively) updated synopsis of my current work, please refer to my personal website at www.rhojohn.com.
 
